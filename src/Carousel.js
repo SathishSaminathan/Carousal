@@ -5,7 +5,6 @@ export default () => (
   <Carousel infiniteLoop autoPlay showThumbs={false} showIndicators={false}>
     <div>
       <img alt="" src={"./backbone.jpeg"} />
-      {/* <p className="legend">Legend 1</p> */}
     </div>
     <div>
       <img alt="" src="./canvas.jpeg" />
