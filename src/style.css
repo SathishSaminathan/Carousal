@@ -1,0 +1,15 @@
+h1,
+p {
+  font-family: Lato;
+}
+
+body {
+  margin: 0;
+}
+
+.slide {
+  height: 100vh;
+}
+img {
+  height: 100vh;
+}
