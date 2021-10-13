@@ -2,7 +2,7 @@ import React from "react";
 import { Carousel } from "react-responsive-carousel";
 
 export default () => (
-  <Carousel autoPlay showThumbs={false} showIndicators={false}>
+  <Carousel infiniteLoop autoPlay showThumbs={false} showIndicators={false}>
     <div>
       <img alt="" src={"./backbone.jpeg"} />
       {/* <p className="legend">Legend 1</p> */}
